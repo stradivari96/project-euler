@@ -1,3 +1,4 @@
+%! [problem1].
 %! problem1(X)
 
 problem1(Sum) :- findall(N,num(N),L), sumlist(L,Sum).
