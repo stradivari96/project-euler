@@ -1,4 +1,5 @@
 # Project euler
+[![Build Status](https://travis-ci.com/stradivari96/project-euler.svg?branch=master)](https://travis-ci.com/stradivari96/project-euler)
 
 Implementations in:
 * C, Rust, Java
